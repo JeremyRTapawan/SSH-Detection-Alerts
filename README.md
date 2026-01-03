@@ -23,7 +23,7 @@ The project identifies repeated failed SSH login attempts within a short time wi
 - **Authentication logs** (`/var/log/auth.log`)
 - **Splunk Enterprise** (SIEM)
 - **Splunk Universal Forwarder**
-- **Python** (optional, for attack simulation)
+- **Python**
 
 ---
 
