@@ -38,9 +38,8 @@ The project identifies repeated failed SSH login attempts within a short time wi
 
 ## Data Source
 Linux authentication logs: /var/log/auth.log
----
 
-## Detection Logic
+---
 
 ### SSH Failed Authentication Events
 index=main "Failed password"
