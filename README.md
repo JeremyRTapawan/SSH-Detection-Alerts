@@ -39,10 +39,11 @@ The project was built as part of a security monitoring lab and focuses on log in
 ## Log Source
 Authentication events are collected from:
 /var/log/auth.log
+
 ---
 ## Detection Logic
 Base Search
- index=main "Failed password"
+index=main "Failed password"
 ---
 ## Notes
 This project was conducted in a **controlled lab environment** for educational purposes. All systems used private IP addressing and simulated activity only.
