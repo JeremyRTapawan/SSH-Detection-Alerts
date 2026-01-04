@@ -32,6 +32,7 @@ The project was built as part of a security monitoring lab and focuses on log in
 - Logs are forwarded to Splunk for centralized analysis
 - Detection logic identifies brute-force behavior
 - Alerts are triggered when thresholds are exceeded
+![Detection](https://github.com/user-attachments/assets/5a97be4c-4b92-4eb5-83df-d6f2aebbd065)
 
 ---
 
