@@ -1,4 +1,4 @@
-![Splunklogs](https://github.com/user-attachments/assets/4abb51ba-1a62-4645-87ac-98341411b111)## 📸 Screenshots & Evidence
+## Screenshots & Evidence
 
 ### 01 — Network Configuration Verification
 ![ipkali](https://github.com/user-attachments/assets/5038dc65-789c-48d8-ac35-4e7ee3e38420)
