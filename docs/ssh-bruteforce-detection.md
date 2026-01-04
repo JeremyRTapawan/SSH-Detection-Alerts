@@ -56,5 +56,5 @@ A SOC-style dashboard visualizing SSH authentication failures and potential atta
 
 ---
 
-## 🔐 Security Note
+## Security Note
 All IP addresses, hostnames, and credentials shown in this repository belong to an isolated lab environment created strictly for educational purposes.
