@@ -29,7 +29,8 @@ Splunk search results confirming successful ingestion of Linux authentication lo
 ---
 
 ### 05 — SSH Brute Force Detection Query
-![attemptlogin](https://github.com/user-attachments/assets/05b70dd6-7b9d-4611-931e-8d95c352f089)
+
+![query](https://github.com/user-attachments/assets/6bcec3a9-39af-44db-acd4-f5c9e4b220dc)
 
 Detection logic correlating multiple failed SSH login attempts from the same source within a short time window to identify potential brute-force activity.
 
